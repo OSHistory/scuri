@@ -6,11 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-
-## [1.1.0]
 ### Added
 
--   Add option for user to specify their own template for a file with function (1.1.1-rc.1) (--functionTemplate)
+-   Add option for user to specify their own template for a file with function (1.2.0-rc.1) (--functionTemplate)
+
+## [1.1.0]
 
 
 ### Added
